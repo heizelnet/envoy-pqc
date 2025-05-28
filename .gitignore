@@ -1,0 +1,6 @@
+bazel-*
+*.log
+.env
+.idea/
+.vscode/
+*.swp
